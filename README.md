@@ -30,7 +30,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giosassis&show_icons=true&locale=en" alt="giosassis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giosassis&show_icons=true&locale=en" alt="giosassis" /> <br></p>
 
 <br>
 
