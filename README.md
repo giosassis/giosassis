@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovana Assis</h1>
-<h3 align="center">Front-End Developer and Information System student.</h3>
+<h3 align="center">Junior Fullstack Developer and Information System student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giosassis&label=Profile%20views&color=0e75b6&style=flat" alt="giosassis" /> </p>
 
