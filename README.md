@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/giosassis](https://github.com/giosassis)
 
-- 💬 Ask me about **HTML, CSS, JS, React and NodeJS API**
+- 💬 Ask me about **DevOps and Backend**
 
 - 📫 How to reach me **giovanaa@ciandt.com**
 
