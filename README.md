@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giosassis
-- 👀 I’m interested in Fullstack Developer
+- 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning VueJS
 - 📫 You can reach me on my linkedin: @giovanaassis24
 
