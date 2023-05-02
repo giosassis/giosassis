@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @giosassis
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning VueJS
-- 📫 You can reach me on my linkedin: @giovanaassis24
+### <div align="center">greetings from Giovana 👋</div>  
+<br/>  
 
-<!---
-giosassis/giosassis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=giovana&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
