@@ -32,23 +32,6 @@ Welcome to my GitHub profile! I'm a **DevOps Developer** with over three years o
 
 ---
 
-## Certifications
-
-- **B2 First Certificate** – Cambridge University Press & Assessment English  
-
----
-
-## Projects
-
-Here are some of the projects I’ve worked on:
-1. **Automation of Linux Servers**: Streamlined server management workflows using Red Hat tools.  
-2. **Chatbots in Python**: Built scalable, AI-powered chatbots for enhanced customer interactions.  
-3. **CI/CD Pipelines**: Designed and implemented CI/CD pipelines for enterprise applications.  
-
-Check out my repositories below for detailed examples!
-
----
-
 ## Let’s Connect
 
 - **Email**: giovana.sant@hotmail.com  
