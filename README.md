@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Giovana Assis
+# Hi, I'm Giovana Assis
 
 Welcome to my GitHub profile! I'm a **DevOps Developer** with over three years of experience in automation, cloud infrastructure, and software development. My passion lies in building efficient and scalable solutions that simplify complex processes and drive innovation.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱 I’m constantly learning and expanding my knowledge in **DevOps practices**, **cloud computing**, and **infrastructure automation**.  
-- 🎯 My professional goal is to create seamless and robust automation systems that optimize workflows and enhance technology delivery.  
-- 🤝 I'm passionate about teamwork and thrive in collaborative, agile environments.  
+- I’m constantly learning and expanding my knowledge in **DevOps practices**, **cloud computing**, and **infrastructure automation**.  
+- My professional goal is to create seamless and robust automation systems that optimize workflows and enhance technology delivery.  
+- I'm passionate about teamwork and thrive in collaborative, agile environments.  
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 - **DevOps & Automation**: CI/CD, Infrastructure as Code (IaC), Red Hat tools, Ansible.  
 - **Cloud Platforms**: AWS, IBM Cloud.  
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a **DevOps Developer** with over three years o
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 - Version Control: Git  
 - Agile Frameworks: Scrum, Kanban  
@@ -32,13 +32,13 @@ Welcome to my GitHub profile! I'm a **DevOps Developer** with over three years o
 
 ---
 
-## 🌟 Certifications
+## Certifications
 
 - **B2 First Certificate** – Cambridge University Press & Assessment English  
 
 ---
 
-## 📂 Projects
+## Projects
 
 Here are some of the projects I’ve worked on:
 1. **Automation of Linux Servers**: Streamlined server management workflows using Red Hat tools.  
@@ -49,7 +49,7 @@ Check out my repositories below for detailed examples!
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - **Email**: giovana.sant@hotmail.com  
 - **LinkedIn**: [linkedin.com/in/giovanaassis24](https://www.linkedin.com/in/giovanaassis24)  
